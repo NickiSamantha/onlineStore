@@ -19,7 +19,7 @@
             "category": "Vinyl Print" ,
             "description": "Choose your favorite design, color and placement to have a custom designed T-shirt for kids. We have sizes available for all kids aged 12 months - 13 years old. All Tshirts are 100% Cotton. Tshirt color ranges are Red, Black, White , Grey, Blue and Yellow.",
             "amount" : 250.00,
-            "img_url": "https://nickisamantha.github.io/allImages/images/nickiflex.png" 
+            "img_url": "https://nickisamantha.github.io/allImages/images/rin.png" 
         },
         {
             "productName" : "Adult Tshirt",
@@ -33,7 +33,7 @@
             "category": "Vinyl Print" ,
             "description": "",
             "amount" : 350.00,
-            "img_url": "https://nickisamantha.github.io/allImages/images/rin" 
+            "img_url": "https://nickisamantha.github.io/allImages/images/nickiflex.png" 
         }
         
     ]
