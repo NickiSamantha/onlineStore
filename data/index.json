@@ -5,42 +5,36 @@
             "category": "Sublimation" ,
             "description": "Polymer cup , bowl , plate and cutlery set. Perfect for kids learning how to eat on their own",
             "amount" : 350.00,
-            "img_url":"https://nickisamantha.github.io/allImages/images/logo.png" , 
+            "img_url":"https://nickisamantha.github.io/allImages/images/logo.png" 
         },
         {
             "productName" : "Mug",
             "category": "Sublimation" ,
             "description": "",
             "amount" : 350.00,
-            "img_url": "https://nickisamantha.github.io/allImages/images/nickical.png" , 
+            "img_url": "https://nickisamantha.github.io/allImages/images/nickical.png" 
         },
         {
             "productName" : "Kids Tshirt",
             "category": "Vinyl Print" ,
             "description": "Choose your favorite design, color and placement to have a custom designed T-shirt for kids. We have sizes available for all kids aged 12 months - 13 years old. All Tshirts are 100% Cotton. Tshirt color ranges are Red, Black, White , Grey, Blue and Yellow.",
             "amount" : 250.00,
-            "img_url": "https://nickisamantha.github.io/allImages/images/nickiflex.png" , 
+            "img_url": "https://nickisamantha.github.io/allImages/images/nickiflex.png" 
         },
         {
             "productName" : "Adult Tshirt",
             "category": "Vinyl Print" ,
             "description": "Choose your favorite design, color and placement to have a custom designed T-shirt for Adults. We have sizes available from SS - XXXL. All Tshirts are 100% Cotton. Tshirt color ranges are Red, Black, White , Grey, Blue and Yellow.",
             "amount" : 350.00,
-            "img_url": "https://nickisamantha.github.io/allImages/images/nickikey.png" , 
+            "img_url": "https://nickisamantha.github.io/allImages/images/nickikey.png" 
         },
         {
             "productName" : "Keyrings",
             "category": "Vinyl Print" ,
             "description": "",
             "amount" : 350.00,
-            "img_url": "https://nickisamantha.github.io/allImages/images/rin" , 
-        },
-        {
-            "productName" : "Kids Set",
-            "category": "Sublimation" ,
-            "description": "Polymer cup , bowl , plate and cutlery set. Perfect for kids learning how to eat on their own",
-            "amount" : 350.00,
-            "img_url": , 
+            "img_url": "https://nickisamantha.github.io/allImages/images/rin" 
         }
+        
     ]
 }
